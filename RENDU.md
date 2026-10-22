@@ -6,6 +6,13 @@
 ## Ex2
 git log --oneline :
 
+616c2cd (HEAD -> master, origin/master) ex2: corrige une faute
+c1614d4 ex2: ajoute trois lignes
+e7bef9e ex2 : crée les notes et texte readme
+b90c822 test 2
+5e32645 ex1: initialise le dépôt
+
+
 ## Ex3
 - config.local est-il encore dans l'historique ? Pourquoi ?
 
