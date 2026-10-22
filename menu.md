@@ -1,7 +1,1 @@
-# Menu
-
-Tartiflette
-Fondue savoyarde
-Raclette
-
-Profiteroles 
+#Menu du jour 
