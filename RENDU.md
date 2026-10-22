@@ -1,7 +1,7 @@
-# Rendu : pseudo
+# Rendu : RubiaPeregrina
 
 - Dépôt :
-- Site GitHub Pages :
+- Site GitHub Pages : 
 
 ## Ex2
 git log --oneline :
