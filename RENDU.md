@@ -34,10 +34,14 @@ annuler une modification c'est retourner à la dernière  version commit. Retire
 
 ## Ex6
 - À quoi servent <<<<<<<, ======= et >>>>>>> ?
+à marquer un conflit entre deux versions les flèches correspondant à chaque branch et = les séparant 
 
 ## Ex7
 - git stash list (avant récupération) :
+-stash@{0}: WIP on master: f127475 Revert "ex7: ajoute une ligne par erreur"
+
 - Pourquoi annuler un commit plutôt que l'effacer de l'historique ?
+risque de doublons ?
 
 ## Ex8
 - git pull = git fetch + quoi ?
