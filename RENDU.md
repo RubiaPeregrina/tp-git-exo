@@ -1,8 +1,7 @@
 # Rendu : RubiaPeregrina
 
 - Dépôt : https://github.com/RubiaPeregrina/tp-git-exo
-- Site GitHub Pages : https://github.com/RubiaPeregrina/tp-git-exo/settings/pages
-
+- Site GitHub Pages : https://rubiaperegrina.github.io/tp-git-exo/
 ## Ex2
 git log --oneline :
 
