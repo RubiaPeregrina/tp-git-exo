@@ -15,10 +15,22 @@ b90c822 test 2
 
 ## Ex3
 - config.local est-il encore dans l'historique ? Pourquoi ?
-
+il a été suivi donc le fichier reste dans l'historique même s'il n'est  plus suivi 
 ## Ex4
 - git status après avoir retiré brouillon.txt du staging :
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   brouillon.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
 - Différence entre annuler une modification et retirer du staging ?
+annuler une modification c'est retourner à la dernière  version commit. Retirer du staging c'est retirer le fichier pour le prochain commit
 
 ## Ex6
 - À quoi servent <<<<<<<, ======= et >>>>>>> ?
