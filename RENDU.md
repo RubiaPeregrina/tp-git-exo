@@ -1,7 +1,7 @@
 # Rendu : RubiaPeregrina
 
-- Dépôt :
-- Site GitHub Pages : 
+- Dépôt : https://github.com/RubiaPeregrina/tp-git-exo
+- Site GitHub Pages : https://github.com/RubiaPeregrina/tp-git-exo/settings/pages
 
 ## Ex2
 git log --oneline :
@@ -45,6 +45,8 @@ risque de doublons ?
 
 ## Ex8
 - git pull = git fetch + quoi ?
+
++ git merge 
 
 ## Ex10
 git log --oneline --graph --all :
